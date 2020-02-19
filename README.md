@@ -1,3 +1,8 @@
+# build code and start   
+\$ sudo n 9.0.0  
+\$ yarn install   
+\$ yarn start   
+
 ## Course
 
 This project was built to teach the [Advanced State Management in React (feat. Redux and MobX) Course](https://frontendmasters.com/courses/react-state/) for Frontend Masters.
